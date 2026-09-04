@@ -1,0 +1,6 @@
+aiogram
+openpyxl
+python-dotenv
+google-genai
+cloudinary
+pyzbar
